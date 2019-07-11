@@ -4,7 +4,7 @@
 
 ### Git bash 명령어
 
-- ls : 현재 디렉토리(폴더)에 내용을 나열함 <ls>
+- ls : 현재 디렉토리(폴더)에 내용을 나열함 <ls>    
 - cd : 현재 작업하는 디렉토리(폴더)를 변경함 <cd .. , cd TIL>
 - echo : 문자열 출력
 - touch : 파일 만들기 <touch day1.md, touch text.md >
