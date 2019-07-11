@@ -1,6 +1,6 @@
 # 파이썬의 3형식
  1. 저장 (menu="", menu=[] <- list에 저장한것, menu={} <-dictionary 이름표붙인것)
- 2. 조건 (if, if_else, if_elif_else)
+ 2. 조건 (if, if_else, if_elif_else) 
  3. 반복 (for(주로사용), while)
 
 # startcamp-day1
